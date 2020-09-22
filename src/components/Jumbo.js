@@ -14,7 +14,7 @@ export default function Jumbo(){
 		    extra attention to featured content or information.
 		  </p>
 		  <p>
-		    <Button variant="primary">Learn morer</Button>
+		    <Button variant="primary">Learn more</Button>
 		  </p>
 		</Jumbotron>
 	)
